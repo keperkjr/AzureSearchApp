@@ -2,7 +2,7 @@
 using Azure.Search.Documents.Indexes.Models;
 using System.Text.Json.Serialization;
 
-namespace FirstSearchApp.Models
+namespace FirstAzureSearchApp.Models
 {
     public partial class Room
     {

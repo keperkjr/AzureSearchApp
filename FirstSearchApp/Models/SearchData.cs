@@ -1,6 +1,6 @@
 ﻿using Azure.Search.Documents.Models;
 
-namespace FirstSearchApp.Models
+namespace FirstAzureSearchApp.Models
 {
     public class SearchData
     {

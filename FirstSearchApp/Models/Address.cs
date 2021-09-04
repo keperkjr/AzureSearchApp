@@ -1,6 +1,6 @@
 ﻿using Azure.Search.Documents.Indexes;
 
-namespace FirstSearchApp.Models
+namespace FirstAzureSearchApp.Models
 {
     public partial class Address
     {

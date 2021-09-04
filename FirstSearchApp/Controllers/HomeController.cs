@@ -1,4 +1,4 @@
-﻿using FirstSearchApp.Models;
+﻿using FirstAzureSearchApp.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace FirstSearchApp.Controllers
+namespace FirstAzureSearchApp.Controllers
 {
     public class HomeController : Controller
     {
